@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supersized>
+    <options>
+        <slideshow>1</slideshow>
+        <autoplay>0</autoplay>
+        <start_slide>0</start_slide>
+        <random>0</random>
+        <slide_interval>5000</slide_interval>
+        <transition>1</transition>
+        <transition_speed>500</transition_speed>
+        <new_window>1</new_window>
+        <pause_hover>0</pause_hover>
+        <stop_loop>0</stop_loop>
+        <keyboard_nav>0</keyboard_nav>
+        <navigation_controls>1</navigation_controls>
+        <navigation>1</navigation>
+        <min_width>0</min_width>
+        <min_height>0</min_height>
+        <vertical_center>0</vertical_center>
+        <horizontal_center>0</horizontal_center>
+        <fit_always>0</fit_always>
+        <fit_portrait>0</fit_portrait>
+        <fit_landscape>0</fit_landscape>
+        <thumbnail_navigation>1</thumbnail_navigation>
+        <thumb_links>1</thumb_links>
+        <slide_counter>0</slide_counter>
+        <slide_captions>0</slide_captions>
+        <slide_links></slide_links>
+        <progress_bar>0</progress_bar>
+        <mouse_scrub>0</mouse_scrub>
+        <thumb_tray>1</thumb_tray>
+    </options>
+</supersized>
